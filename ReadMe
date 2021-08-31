@@ -1,2 +1,3 @@
-Time use ES:  6.820746ms  result:  yes
-Time use Mysql:  68.661929ms  result:  yes
+Time use ES:  4.835088ms  result:  yes
+Time use Mysql:  330.616047ms  result:  yes
+
